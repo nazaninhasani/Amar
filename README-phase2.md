@@ -65,7 +65,7 @@ python -m pip install -r requirements-phase2.txt
 - weight_normal_diagnostics.png
 - age_weight_scatter.png
 
-هجده جدول CSV در reports/phase2/tables ذخیره می‌شوند.
+بیست و یک جدول CSV در reports/phase2/tables ذخیره می‌شوند.
 اجرای دوباره، این خروجی‌ها را با نتایج اجرای جدید جایگزین می‌کند.
 
 ## دامنهٔ تفسیر
