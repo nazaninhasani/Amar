@@ -1,0 +1,10 @@
+﻿Quantity,Value
+Q1 (kg),67.55
+Q3 (kg),95.4
+IQR (kg),27.85000000000001
+Lower bound (kg),25.774999999999984
+Upper bound (kg),137.175
+Count below lower bound,0.0
+Count above upper bound,151.0
+Total flagged,151.0
+Flagged percent,2.5238174828681266
