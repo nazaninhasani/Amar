@@ -12,6 +12,7 @@
 - [نوت‌بوک تحلیل فاز دوم](notebooks/phase2_analysis.ipynb)
 - [جدول‌های خروجی](reports/phase2/tables/)
 - [نمودارهای خروجی](figures/phase2/)
+- [گزارش PDF فاز دوم](reports/phase2.pdf)
 
 برای اجرای تحلیل، مراحل README-phase2.md را دنبال کنید.
 گزارش PDF فاز دوم پس از تکمیل به پروژه اضافه خواهد شد.
