@@ -1,0 +1,7 @@
+﻿Check,Count
+Duplicate SEQN rows,0
+"Observed sex code outside {1, 2}",0
+Observed body weight <= 0,0
+Observed MEC weight <= 0,0
+Recorded age outside 20-80,0
+Non-finite observed numeric values,0

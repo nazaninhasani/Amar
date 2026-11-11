@@ -1,0 +1,6 @@
+﻿Stage,Remaining,Excluded_at_step
+Inner merge,8860,0
+Age >= 20,6064,2796
+Required values observed,5983,81
+"Sex code in {1, 2}",5983,0
+MEC weight > 0,5983,0
